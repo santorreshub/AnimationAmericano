@@ -11,6 +11,30 @@
 		AA57CA662B0CDF8E00C25B84 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CA652B0CDF8E00C25B84 /* ContentView.swift */; };
 		AA57CA682B0CDF8F00C25B84 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA57CA672B0CDF8F00C25B84 /* Assets.xcassets */; };
 		AA57CA6B2B0CDF8F00C25B84 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA57CA6A2B0CDF8F00C25B84 /* Preview Assets.xcassets */; };
+		AA57CA792B0CDFED00C25B84 /* house.riv in Resources */ = {isa = PBXBuildFile; fileRef = AA57CA722B0CDFED00C25B84 /* house.riv */; };
+		AA57CA7A2B0CDFED00C25B84 /* confetti.riv in Resources */ = {isa = PBXBuildFile; fileRef = AA57CA732B0CDFED00C25B84 /* confetti.riv */; };
+		AA57CA7B2B0CDFED00C25B84 /* check.riv in Resources */ = {isa = PBXBuildFile; fileRef = AA57CA742B0CDFED00C25B84 /* check.riv */; };
+		AA57CA7C2B0CDFED00C25B84 /* menu_button.riv in Resources */ = {isa = PBXBuildFile; fileRef = AA57CA752B0CDFED00C25B84 /* menu_button.riv */; };
+		AA57CA7D2B0CDFED00C25B84 /* shapes.riv in Resources */ = {isa = PBXBuildFile; fileRef = AA57CA762B0CDFED00C25B84 /* shapes.riv */; };
+		AA57CA7E2B0CDFED00C25B84 /* button.riv in Resources */ = {isa = PBXBuildFile; fileRef = AA57CA772B0CDFED00C25B84 /* button.riv */; };
+		AA57CA7F2B0CDFED00C25B84 /* icons.riv in Resources */ = {isa = PBXBuildFile; fileRef = AA57CA782B0CDFED00C25B84 /* icons.riv */; };
+		AA57CA822B0CE05C00C25B84 /* RiveRuntime in Frameworks */ = {isa = PBXBuildFile; productRef = AA57CA812B0CE05C00C25B84 /* RiveRuntime */; };
+		AA57CA842B0CE07100C25B84 /* OnBoardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CA832B0CE07100C25B84 /* OnBoardingView.swift */; };
+		AA57CA892B0CF06200C25B84 /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AA57CA862B0CF06200C25B84 /* Inter-Regular.ttf */; };
+		AA57CA8A2B0CF06200C25B84 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AA57CA872B0CF06200C25B84 /* Poppins-Bold.ttf */; };
+		AA57CA8B2B0CF06200C25B84 /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AA57CA882B0CF06200C25B84 /* Inter-SemiBold.ttf */; };
+		AA57CA8E2B0CF19B00C25B84 /* CustomFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CA8D2B0CF19B00C25B84 /* CustomFont.swift */; };
+		AA57CA902B0D048500C25B84 /* SigninView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CA8F2B0D048500C25B84 /* SigninView.swift */; };
+		AA57CA922B0D070F00C25B84 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CA912B0D070F00C25B84 /* CustomTextField.swift */; };
+		AA57CA942B0D08B500C25B84 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CA932B0D08B500C25B84 /* Extensions.swift */; };
+		AA57CA982B0D136800C25B84 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CA972B0D136800C25B84 /* TabBar.swift */; };
+		AA57CA9C2B0D63F600C25B84 /* CourseSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CA9A2B0D63F600C25B84 /* CourseSection.swift */; };
+		AA57CA9D2B0D63F600C25B84 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CA9B2B0D63F600C25B84 /* Course.swift */; };
+		AA57CA9F2B0D641700C25B84 /* VCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CA9E2B0D641700C25B84 /* VCard.swift */; };
+		AA57CAA12B0D676600C25B84 /* HCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CAA02B0D676600C25B84 /* HCard.swift */; };
+		AA57CAA32B0D691300C25B84 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CAA22B0D691300C25B84 /* HomeView.swift */; };
+		AA57CAA52B0D6D2A00C25B84 /* SideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CAA42B0D6D2A00C25B84 /* SideMenu.swift */; };
+		AA57CAA72B0D72A700C25B84 /* MenuRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA57CAA62B0D72A700C25B84 /* MenuRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +43,30 @@
 		AA57CA652B0CDF8E00C25B84 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AA57CA672B0CDF8F00C25B84 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA57CA6A2B0CDF8F00C25B84 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AA57CA722B0CDFED00C25B84 /* house.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = house.riv; sourceTree = "<group>"; };
+		AA57CA732B0CDFED00C25B84 /* confetti.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = confetti.riv; sourceTree = "<group>"; };
+		AA57CA742B0CDFED00C25B84 /* check.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = check.riv; sourceTree = "<group>"; };
+		AA57CA752B0CDFED00C25B84 /* menu_button.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = menu_button.riv; sourceTree = "<group>"; };
+		AA57CA762B0CDFED00C25B84 /* shapes.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = shapes.riv; sourceTree = "<group>"; };
+		AA57CA772B0CDFED00C25B84 /* button.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = button.riv; sourceTree = "<group>"; };
+		AA57CA782B0CDFED00C25B84 /* icons.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = icons.riv; sourceTree = "<group>"; };
+		AA57CA832B0CE07100C25B84 /* OnBoardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingView.swift; sourceTree = "<group>"; };
+		AA57CA862B0CF06200C25B84 /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		AA57CA872B0CF06200C25B84 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		AA57CA882B0CF06200C25B84 /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-SemiBold.ttf"; sourceTree = "<group>"; };
+		AA57CA8C2B0CF0C100C25B84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		AA57CA8D2B0CF19B00C25B84 /* CustomFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFont.swift; sourceTree = "<group>"; };
+		AA57CA8F2B0D048500C25B84 /* SigninView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SigninView.swift; sourceTree = "<group>"; };
+		AA57CA912B0D070F00C25B84 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		AA57CA932B0D08B500C25B84 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		AA57CA972B0D136800C25B84 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		AA57CA9A2B0D63F600C25B84 /* CourseSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CourseSection.swift; sourceTree = "<group>"; };
+		AA57CA9B2B0D63F600C25B84 /* Course.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
+		AA57CA9E2B0D641700C25B84 /* VCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCard.swift; sourceTree = "<group>"; };
+		AA57CAA02B0D676600C25B84 /* HCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HCard.swift; sourceTree = "<group>"; };
+		AA57CAA22B0D691300C25B84 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		AA57CAA42B0D6D2A00C25B84 /* SideMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenu.swift; sourceTree = "<group>"; };
+		AA57CAA62B0D72A700C25B84 /* MenuRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA57CA822B0CE05C00C25B84 /* RiveRuntime in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,9 +100,19 @@
 		AA57CA622B0CDF8E00C25B84 /* AnimationAmericano */ = {
 			isa = PBXGroup;
 			children = (
+				AA57CA8C2B0CF0C100C25B84 /* Info.plist */,
 				AA57CA632B0CDF8E00C25B84 /* AnimationAmericanoApp.swift */,
 				AA57CA652B0CDF8E00C25B84 /* ContentView.swift */,
+				AA57CAA42B0D6D2A00C25B84 /* SideMenu.swift */,
+				AA57CAA62B0D72A700C25B84 /* MenuRow.swift */,
+				AA57CA972B0D136800C25B84 /* TabBar.swift */,
+				AA57CAA22B0D691300C25B84 /* HomeView.swift */,
+				AA57CA952B0D132600C25B84 /* Views */,
+				AA57CA962B0D135500C25B84 /* Styles */,
 				AA57CA672B0CDF8F00C25B84 /* Assets.xcassets */,
+				AA57CA992B0D63F600C25B84 /* Model */,
+				AA57CA852B0CF06200C25B84 /* Fonts */,
+				AA57CA712B0CDFED00C25B84 /* RiveAssets */,
 				AA57CA692B0CDF8F00C25B84 /* Preview Content */,
 			);
 			path = AnimationAmericano;
@@ -65,6 +124,60 @@
 				AA57CA6A2B0CDF8F00C25B84 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		AA57CA712B0CDFED00C25B84 /* RiveAssets */ = {
+			isa = PBXGroup;
+			children = (
+				AA57CA722B0CDFED00C25B84 /* house.riv */,
+				AA57CA732B0CDFED00C25B84 /* confetti.riv */,
+				AA57CA742B0CDFED00C25B84 /* check.riv */,
+				AA57CA752B0CDFED00C25B84 /* menu_button.riv */,
+				AA57CA762B0CDFED00C25B84 /* shapes.riv */,
+				AA57CA772B0CDFED00C25B84 /* button.riv */,
+				AA57CA782B0CDFED00C25B84 /* icons.riv */,
+			);
+			path = RiveAssets;
+			sourceTree = "<group>";
+		};
+		AA57CA852B0CF06200C25B84 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				AA57CA862B0CF06200C25B84 /* Inter-Regular.ttf */,
+				AA57CA872B0CF06200C25B84 /* Poppins-Bold.ttf */,
+				AA57CA882B0CF06200C25B84 /* Inter-SemiBold.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		AA57CA952B0D132600C25B84 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				AA57CA832B0CE07100C25B84 /* OnBoardingView.swift */,
+				AA57CA8F2B0D048500C25B84 /* SigninView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		AA57CA962B0D135500C25B84 /* Styles */ = {
+			isa = PBXGroup;
+			children = (
+				AA57CA932B0D08B500C25B84 /* Extensions.swift */,
+				AA57CA912B0D070F00C25B84 /* CustomTextField.swift */,
+				AA57CA8D2B0CF19B00C25B84 /* CustomFont.swift */,
+			);
+			path = Styles;
+			sourceTree = "<group>";
+		};
+		AA57CA992B0D63F600C25B84 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				AA57CA9A2B0D63F600C25B84 /* CourseSection.swift */,
+				AA57CA9B2B0D63F600C25B84 /* Course.swift */,
+				AA57CA9E2B0D641700C25B84 /* VCard.swift */,
+				AA57CAA02B0D676600C25B84 /* HCard.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +196,9 @@
 			dependencies = (
 			);
 			name = AnimationAmericano;
+			packageProductDependencies = (
+				AA57CA812B0CE05C00C25B84 /* RiveRuntime */,
+			);
 			productName = AnimationAmericano;
 			productReference = AA57CA602B0CDF8E00C25B84 /* AnimationAmericano.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +227,9 @@
 				Base,
 			);
 			mainGroup = AA57CA572B0CDF8E00C25B84;
+			packageReferences = (
+				AA57CA802B0CE05C00C25B84 /* XCRemoteSwiftPackageReference "rive-ios" */,
+			);
 			productRefGroup = AA57CA612B0CDF8E00C25B84 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,8 +244,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA57CA8B2B0CF06200C25B84 /* Inter-SemiBold.ttf in Resources */,
+				AA57CA7D2B0CDFED00C25B84 /* shapes.riv in Resources */,
+				AA57CA7B2B0CDFED00C25B84 /* check.riv in Resources */,
 				AA57CA6B2B0CDF8F00C25B84 /* Preview Assets.xcassets in Resources */,
+				AA57CA7C2B0CDFED00C25B84 /* menu_button.riv in Resources */,
+				AA57CA792B0CDFED00C25B84 /* house.riv in Resources */,
+				AA57CA7E2B0CDFED00C25B84 /* button.riv in Resources */,
+				AA57CA892B0CF06200C25B84 /* Inter-Regular.ttf in Resources */,
+				AA57CA8A2B0CF06200C25B84 /* Poppins-Bold.ttf in Resources */,
 				AA57CA682B0CDF8F00C25B84 /* Assets.xcassets in Resources */,
+				AA57CA7A2B0CDFED00C25B84 /* confetti.riv in Resources */,
+				AA57CA7F2B0CDFED00C25B84 /* icons.riv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +266,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA57CAA12B0D676600C25B84 /* HCard.swift in Sources */,
+				AA57CA8E2B0CF19B00C25B84 /* CustomFont.swift in Sources */,
+				AA57CAA32B0D691300C25B84 /* HomeView.swift in Sources */,
+				AA57CAA52B0D6D2A00C25B84 /* SideMenu.swift in Sources */,
+				AA57CA842B0CE07100C25B84 /* OnBoardingView.swift in Sources */,
+				AA57CA9D2B0D63F600C25B84 /* Course.swift in Sources */,
+				AA57CA922B0D070F00C25B84 /* CustomTextField.swift in Sources */,
+				AA57CA982B0D136800C25B84 /* TabBar.swift in Sources */,
+				AA57CA9F2B0D641700C25B84 /* VCard.swift in Sources */,
+				AA57CA902B0D048500C25B84 /* SigninView.swift in Sources */,
 				AA57CA662B0CDF8E00C25B84 /* ContentView.swift in Sources */,
 				AA57CA642B0CDF8E00C25B84 /* AnimationAmericanoApp.swift in Sources */,
+				AA57CA9C2B0D63F600C25B84 /* CourseSection.swift in Sources */,
+				AA57CA942B0D08B500C25B84 /* Extensions.swift in Sources */,
+				AA57CAA72B0D72A700C25B84 /* MenuRow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +417,7 @@
 				DEVELOPMENT_TEAM = VZ9PFZ46UL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AnimationAmericano/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -304,6 +447,7 @@
 				DEVELOPMENT_TEAM = VZ9PFZ46UL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AnimationAmericano/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -344,6 +488,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		AA57CA802B0CE05C00C25B84 /* XCRemoteSwiftPackageReference "rive-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/rive-app/rive-ios";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.6.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		AA57CA812B0CE05C00C25B84 /* RiveRuntime */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AA57CA802B0CE05C00C25B84 /* XCRemoteSwiftPackageReference "rive-ios" */;
+			productName = RiveRuntime;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = AA57CA582B0CDF8E00C25B84 /* Project object */;
 }
