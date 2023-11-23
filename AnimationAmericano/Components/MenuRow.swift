@@ -33,7 +33,7 @@ struct MenuRow: View {
             DispatchQueue.main.asyncAfter(deadline: .now() + 2){
                 item.icon.setInput("active", value: false)
             }
-            withAnimation{
+            withAnimation(.timingCurve(0.2,0.8,0.2,1)){
                 selectedMenu = item.menu
             }
         }

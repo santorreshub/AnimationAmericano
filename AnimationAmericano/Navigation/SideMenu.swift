@@ -74,13 +74,11 @@ struct SideMenu: View {
                 menuItems3[0].icon.view()
                     .frame(width: 32, height: 32)
                     .opacity(0.6)
-                    .onChange(of: isDarkMode){
-                        newValue in
+                    .onChange(of: isDarkMode) { newValue in
                         if newValue {
-                            menuItems3[0].icon.setInput("active", value: true)
-                        }
-                        else{
-                            menuItems3[0].icon.setInput("active", value: false)
+                             menuItems3[0].icon.setInput("active", value: true)
+                        } else {
+                             menuItems3[0].icon.setInput("active", value: false)
                         }
                     }
                 Text(menuItems3[0].text)
